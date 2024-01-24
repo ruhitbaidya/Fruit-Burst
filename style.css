@@ -1,0 +1,14 @@
+html{
+    scroll-padding-top:160px;
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.overlays{
+    background: rgba(61, 56, 56, 0.678);
+}
+.times i{
+    font-size: 25px;
+    margin-bottom:17px;
+}
